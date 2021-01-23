@@ -8,6 +8,7 @@ Implemented:
 - Client-server interaction
 - Downloading created chats from the server
 - Create a new chat
+
 Not implemented:
 - The chats themselves (messaging)
 - Several checks are missing in the code
